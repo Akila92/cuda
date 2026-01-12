@@ -1,5 +1,5 @@
 # cuda
-This is my public repo where I try to build and test stuff related to CUDA
+This is my public repo where I try to build and test stuff related to CUDA.
 Final aim is to create a working repo which can be used to understand GPUs
 
 References
